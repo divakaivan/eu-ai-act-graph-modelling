@@ -10,7 +10,7 @@
 
 ### Neo4j Implementation
 
-![neo4j-vis](info_pics/neo4j_vis.png)
+![neo4j-vis](info_pics/neo4j-vis.png)
 
 #### Files in repo
 
