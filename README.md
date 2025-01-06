@@ -1,12 +1,12 @@
 ### I read [The AI Engineer's Guide to Surviving the EU AI Act](https://www.oreilly.com/library/view/the-ai-engineers/9781098172480/) by Larysa Visengeriyeva, and it was great. It sparked my interest to learn more about the Act and also I realised it's a good candidate for a graph data model.
 
-### Logical Model
-
-![logical-model](info_pics/logical_model.png)
-
 ### Conceptial Model
 
 ![conceptual-model](info_pics/conceptial_model.png)
+
+### Logical Model
+
+![logical-model](info_pics/logical_model.png)
 
 ### Neo4j Implementation
 
