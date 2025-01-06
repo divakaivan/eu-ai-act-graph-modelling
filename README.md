@@ -2,15 +2,15 @@
 
 ### Logical Model
 
-![logical-model](./logical_model.png)
+![logical-model](info_pics/logical_model.png)
 
 ### Conceptial Model
 
-![conceptual-model](./conceptial_model.png)
+![conceptual-model](info_pics/conceptial_model.png)
 
 ### Neo4j Implementation
 
-![neo4j-vis](./neo4j_vis.png)
+![neo4j-vis](info_pics/neo4j_vis.png)
 
 #### Files in repo
 
