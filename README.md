@@ -17,4 +17,5 @@
 - the CSVs (articles.csv, annexes.csv, recitals.csv) contain the scraped documents; also given as txt files
 - scraping is in the `scrape_data.ipynb`
 - *some* of the Cypher code is in `interact_with_neo4j.ipynb`, there are not many nodes (~300 for the 3 main documents) so this is fairly light
-- to set up Neo4j locally, run `docker-compose up -d` (username & pwd are in the `docker-compose.yml`) 
+- to set up Neo4j locally, run `docker-compose up -d` (username & pwd are in the `docker-compose.yml`)
+
